@@ -1,3 +1,5 @@
-This is a free version of medusa.uno and i will be making updates if they are important or needed. Like crashing, missing a lot.
+Welcome to the free version of Medusa.uno! I'll be rolling out updates as needed to keep things fine. If you encounter crashes or spot anything missing then wait for fix 💀!
 
-MEDUSA.UNO DISCORD SEVER: https://discord.gg/wqysKSVS5j
+Feel free to join our Medusa.uno Discord Server at https://discord.gg/wqysKSVS5j
+
+Your feedback is key to making this experience even better, so don't hesitate to reach out. Together, let's make Medusa.uno the best it can be! 🐍🃏
