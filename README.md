@@ -3,3 +3,7 @@ Welcome to the free version of Medusa.uno! I'll be rolling out updates as needed
 Feel free to join our Medusa.uno Discord Server at https://discord.gg/wqysKSVS5j
 
 Your feedback is key to making this experience even better, so don't hesitate to reach out. Together, let's make Medusa.uno the best it can be! 🐍🃏
+
+Medusa.uno project has been closed. More information on https://medusa.uno/
+
+
